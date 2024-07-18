@@ -1,0 +1,8 @@
+header{ font-style: italic; color: rgb(243, 157, 29); text-align: center;}
+.title{ font-style: oblique; color: chocolate;}
+.subtitle{font-size: larger; font-style: inherit; color: coral; text-align: center;}
+.paragraph{ font-style: initial; color: crimson; text-align: center;}
+.image1{border: 2mm; border-color: black; border-style: dashed;}
+.image2{border: 3mm; border-color: cornflowerblue;border-style: groove;}
+.image3{border: 2mm; border-color: tomato; border-style: outset;}
+.f{font-size: smaller; font-style: unset; color: darkorange; text-align: end;}
